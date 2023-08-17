@@ -5,6 +5,14 @@
 ## Preview 👀
 ![Image](https://media.discordapp.net/attachments/1140987090843213826/1141573479519486032/image.png)
 
+## Installation
+
+Follow these steps to install and use the File Input component in your project:
+
+1. **Installation for Windows**
+2. **Install Nodejs**
+   ```bash
+   git clone https://github.com/YourUsername/YourRepository.git
 
 
 ## Contact Me 📞
