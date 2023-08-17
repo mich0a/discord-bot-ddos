@@ -5,9 +5,9 @@
 
 ## Installation
 
-- **Golang:**
+- **Nodejs:**
   ```bash
-  
+  npm install
   ```
 
 ## Contact Me 📞
