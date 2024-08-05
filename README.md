@@ -1,7 +1,7 @@
 # Discord Bot Attack Linked with Apis 
 
 ## Preview 👀
-![Image](https://raw.githubusercontent.com/mich0a/discord-bot-ddos/main/fgfg.PN)
+![Image](https://raw.githubusercontent.com/mich0a/discord-bot-ddos/main/fgfg.PNG)
 ## Installation
 
 - **Nodejs:**
