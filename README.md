@@ -4,7 +4,7 @@
 
 You can contact me if we have a problem :
 
-- 🚀 Connect with me on [Telegram](https://t.me/mich0a)
+- 🚀 Connect with me on [Telegram](https://t.me/twuuzy)
 - 💬 Join me on Discord: @twezyzz id = 1000013218544103514
 
 ## Preview 👀
